@@ -1,0 +1,86 @@
+name: otlobgas_driver
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 3.0.1+4
+
+environment:
+  sdk: ">=2.18.4 <3.0.0"
+
+dependencies:
+  assets_audio_player: ^3.0.6
+  audioplayers: ^4.0.1
+  cached_network_image: ^3.3.0
+  carousel_slider: ^4.1.1
+  charts_painter: ^3.1.1
+  checkbox_grouped: ^1.8.2
+  cupertino_icons: ^1.0.2
+  dartz: ^0.10.1
+  emoji_picker_flutter: ^1.5.2
+  equatable: ^2.0.5
+  firebase_auth: ^4.6.2
+  firebase_core: ^2.7.0
+  firebase_messaging: ^14.2.4
+  flutter:
+    sdk: flutter
+  flutter_html: ^3.0.0-alpha.6
+  flutter_launcher_icons: ^0.12.0
+  flutter_local_notifications: ^12.0.2
+  flutter_localizations:
+    sdk: flutter
+  flutter_rating_bar: ^4.0.1
+  flutter_secure_storage: ^8.0.0
+  flutter_svg: ^1.1.6
+  geolocator: ^9.0.2
+  get: ^4.6.5
+  get_storage: ^2.0.3
+  google_maps_flutter: ^2.2.3
+  http: ^0.13.4
+  image_picker: ^0.8.6+2
+  internet_connection_checker: ^1.0.0+1
+  intl:
+  lottie: ^2.2.0
+  map_launcher: ^2.5.0+1
+  path_provider: ^2.0.13
+  permission_handler: ^10.2.0
+  pinput: ^2.2.30
+  pusher_channels_flutter: ^2.1.2
+  record: ^4.4.4
+  search_map_place_updated: ^0.0.4
+  shimmer: ^2.0.0
+  sliding_up_panel: ^2.0.0+1
+  url_launcher: ^6.1.9
+  uuid: ^3.0.7
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/image/logo2.png"
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/
+    - assets/icon/bottom_bar/
+    - assets/image/
+    - assets/animations/
+    - assets/audios/
+
+  fonts:
+    - family: Somar
+      fonts:
+        - asset: assets/fonts/Somar-Bold.otf
+          weight: 700
+        - asset: assets/fonts/Somar-Medium.otf
+          weight: 500
+        - asset: assets/fonts/Somar-Regular.otf
+          weight: 400
+        - asset: assets/fonts/Somar-SemiBold.otf
+          weight: 600

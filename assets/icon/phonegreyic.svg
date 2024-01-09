@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13" viewBox="0 0 13 13">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon" width="13" height="13" transform="translate(0.431 0.431)" fill="#242424"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_64" data-name="Mask Group 64" transform="translate(-0.431 -0.431)" clip-path="url(#clip-path)">
+    <path id="mobile-notch" d="M6.315,10.385H3.823a.415.415,0,1,0,0,.831H6.315a.415.415,0,1,0,0-.831ZM7.977,0H2.162A1.661,1.661,0,0,0,.5,1.662v9.969a1.661,1.661,0,0,0,1.662,1.662H7.977a1.661,1.661,0,0,0,1.662-1.662V1.662A1.662,1.662,0,0,0,7.977,0Zm.415,11.631a.416.416,0,0,1-.415.415H2.162a.416.416,0,0,1-.415-.415V1.662a.416.416,0,0,1,.415-.415H3.408v.831a.416.416,0,0,0,.415.415H6.315a.416.416,0,0,0,.415-.415V1.246H7.977a.416.416,0,0,1,.415.415Z" transform="translate(1.577 0)" fill="#242424"/>
+  </g>
+</svg>
